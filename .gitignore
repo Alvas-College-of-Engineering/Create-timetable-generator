@@ -2,3 +2,6 @@ out/
 *.class
 timetable.txt
 timetable.csv
+target/
+*.war
+*.jar
